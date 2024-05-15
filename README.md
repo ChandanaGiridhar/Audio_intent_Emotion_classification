@@ -26,3 +26,9 @@ run4 -> batch = 70, epoch = 50, accuracy =48.50%
 run5 -> batch = 64, epoch = 64, accuracy = 71.39%
 
 From this i have achieved audio intent classification but emotion classifier could have been better as several more runs and hyperparameter tuning is required to achieve best results.
+
+## Reference 
+
+https://github.com/skit-ai/speech-to-intent-dataset
+
+https://www.kaggle.com/datasets/ejlok1/cremad
